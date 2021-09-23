@@ -1,0 +1,33 @@
+.whitecard{
+  border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 4px;
+}
+
+ body {
+background: #E5E5E5;
+  }
+  #imageposition {
+    position: relative;
+    bottom: 20px;
+    left: 100px;
+
+  }
+
+section {
+    position: relative;
+  }
+.responsive-img{
+  display: block;
+      
+    max-width: 100%;
+    
+    margin-left: auto;
+    
+    margin-right: auto;
+}
+
+/* .img{
+  width: 600px; */
+
